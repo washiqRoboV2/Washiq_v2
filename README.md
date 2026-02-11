@@ -16,11 +16,11 @@
     <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="License">
   </p>
   
-  <h3>✨ Created by <a href="https://github.com/ntkhang03">NTKhang</a> | Modified & Enhanced by <a href="https://github.com/NeoKEX">NeoKEX</a></h3>
+  <h3>✨ Created by <a href="https://github.com/ntkhang03">NTKhang</a> | Modified & Enhanced by <a href="https://github.com/NeoKEX">Maybe Adnan</a></h3>
   
   <p>
     <strong>🚀 No Google Credentials Required!</strong><br>
-    <em>Uses neokex-fca for seamless Facebook integration</em>
+    <em>Uses Adnan-fca for seamless Facebook integration</em>
   </p>
 </div>
 
